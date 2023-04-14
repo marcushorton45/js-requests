@@ -135,7 +135,7 @@ repeatBtn.addEventListener('click', repeatMyParam)
 
     Write a function that makes a get request to 'http://localhost:3000/query-test', with a query of your choice on the end!
 
-    Outside of your new function, select the button with the id "query-button" and add a click event listener that calls your function.
+    Outside of your new function, select the button with the id "query-button" and add a click event listener that calls your function. hello
 */
 
 // CODE HERE
